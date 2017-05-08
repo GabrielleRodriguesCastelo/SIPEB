@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Chamada
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gaby
+Implementation-Vendor-Id: br.com.tcc
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/chamada/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
